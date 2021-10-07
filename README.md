@@ -18,7 +18,7 @@ Forkify is simple and interactive recipe-searching application.The user is given
  
  Screenshots:
  
- ![Test Image 1](https://github.com/Maninderjeet31/Forkify/blob/master/pics/First.png)
+<!--  ![Test Image 1](https://github.com/Maninderjeet31/Forkify/blob/master/pics/First.png)
  
  ![Test Image 2](https://github.com/Maninderjeet31/Forkify/blob/master/pics/Detail.png)
   
@@ -28,7 +28,7 @@ Forkify is simple and interactive recipe-searching application.The user is given
     
  ![Test Image 5](https://github.com/Maninderjeet31/Forkify/blob/master/pics/Add.png)
      
- ![Test Image 6](https://github.com/Maninderjeet31/Forkify/blob/master/pics/AddChange.png)
+ ![Test Image 6](https://github.com/Maninderjeet31/Forkify/blob/master/pics/AddChange.png) -->
  
  
  
