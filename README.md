@@ -12,9 +12,9 @@ Forkify is simple and interactive recipe-searching application.The user is given
  
  3. The user can make changes to the number of servings and the changes would be refelected automatically in the prep-duration as well as in the ingredients of the recipe.
  
- 4. The user can either save 1/+ recipe(s) in liked-recipes list for future reference or once they are done choosing recipes, they can add it to the shopping list.
+ 4. The user can either save 1/+ recipe(s) in bookmarks-list for future reference and it will stay even if user closes and opens up the session back again.
  
- 5. Finally the user can keep everything or remove 1/+ ingredient and once they are done, they can finally checkout.
+ 5. Also, the user can also enter their own recipe and publish it.
  
 <!-- Screenshots:
  
