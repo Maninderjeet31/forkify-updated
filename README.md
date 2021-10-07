@@ -16,9 +16,9 @@ Forkify is simple and interactive recipe-searching application.The user is given
  
  5. Finally the user can keep everything or remove 1/+ ingredient and once they are done, they can finally checkout.
  
- Screenshots:
+<!-- Screenshots:
  
-<!--  ![Test Image 1](https://github.com/Maninderjeet31/Forkify/blob/master/pics/First.png)
+  ![Test Image 1](https://github.com/Maninderjeet31/Forkify/blob/master/pics/First.png)
  
  ![Test Image 2](https://github.com/Maninderjeet31/Forkify/blob/master/pics/Detail.png)
   
