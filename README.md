@@ -1,7 +1,7 @@
 # Forkify 
 FORKIFY - A recipe searching application
  
-### Overview
+### Overview.
  
  
 Forkify is simple and interactive recipe-searching application.The user is given the ability to search any recipe from over a million choices available.These choices are made posible because of the APIs used in real time during the project, javaScript features like Asynchronus JavaScript and AJAX.
